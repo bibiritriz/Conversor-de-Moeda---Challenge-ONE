@@ -22,9 +22,7 @@ Este projeto é um conversor de moedas desenvolvido como parte do programa **Cha
 *   **Gson**: Biblioteca para serialização e desserialização de objetos Java para JSON e vice-versa.
 *   **HttpClient**: Para realizar requisições HTTP à API de taxas de câmbio.
 
-## Como Rodar o Projeto
-
-### Pré-requisitos
+## Pré-requisitos
 
 *   Java Development Kit (JDK) 11 ou superior.
 *   Apache Maven.
