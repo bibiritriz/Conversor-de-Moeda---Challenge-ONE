@@ -30,5 +30,4 @@ Este projeto é um conversor de moedas desenvolvido como parte do programa **Cha
 
 ## Autor
 
-*   **bibiritriz**
-    *   [GitHub](https://github.com/bibiritriz)
+*   [**bibiritriz**](https://github.com/bibiritriz)
